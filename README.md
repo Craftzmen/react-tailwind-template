@@ -65,6 +65,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ```
 npm run build
 ```
-``Fails to minify``
+Fails to minify
 
 This section has moved here: [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
